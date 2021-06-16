@@ -1,22 +1,25 @@
-﻿  main.cpp
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\shader.h(61,40): warning C4101: e: неиспользованная локальная переменная
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(227,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(253,62): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(254,66): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(262,61): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(263,64): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(271,61): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(272,64): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(280,61): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(281,64): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(290,57): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(291,61): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(388,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(389,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(393,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(394,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(396,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(397,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Виталий\source\repos\Kursovaya\Kursovaya\main.cpp(405,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+﻿  glad.c
+  main.cpp
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\shader.h(61,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(227,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(253,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(254,66): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(262,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(263,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(271,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(272,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(280,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(281,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(290,57): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(291,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(388,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(389,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(393,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(394,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(396,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(397,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Kursovaya\main.cpp(405,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  stb_image.cpp
+  Создание кода...
 LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
-  Kursovaya.vcxproj -> C:\Users\Виталий\source\repos\Kursovaya\Debug\Kursovaya.exe
+  Kursovaya.vcxproj -> C:\Users\Виталий\Documents\GitHub\cursach\Kursovaya\Debug\Kursovaya.exe
